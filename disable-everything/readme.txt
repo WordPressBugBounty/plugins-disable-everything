@@ -2,8 +2,8 @@
 Contributors: dessky
 Tags: disable, wp2shell, remove bloat, unbloat, bloat, remove, disable comments, disable updates, disable revisions, disable post revisions, disable search, patch wp2shell, fix wp2shell, wp2shell fix, wp2shell patch, disable lazy loading, disable yoast seo bloat, disable yoast, disable yoast seo, disable seo bloat, disable woocommerce bloat, disable right click, right click, disable bloat, disable emojis, clean dashboard, disable xml rpc, disable xml, disable rpc, disable pingback, disable rsd, disable everything, lightweight, ultralight, performance, speed, elementor bloat, elementor, jetpack promotions, jetpack, contact form 7 bloat, cf7 bloat, contact form 7, autoptimize toolbar, autoptimize, w3 total cache html footer comments, w3tc html footer comments, w3tc footer comments, w3tc, dessky
 Requires at least: 3.9
-Tested up to: 7.0.2
-Stable tag: 0.4.1
+Tested up to: 7.1.3
+Stable tag: 0.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

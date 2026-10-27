@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Disable Everything
  * Description: Disable all unnecessary WordPress features and speed up your website.
- * Version: 0.4.1
+ * Version: 0.4.2
  * Author: Dessky Team
  * Author URI: https://dessky.com
  * License: GPL3
@@ -615,7 +615,7 @@ function disable_everything_options() {
 	//Banner
 	if (! function_exists ( 'disable_everything_pro_activated' )) {
 	echo '<div class="wrap">';
-	echo '<a href="https://syncpostsbetweensites.dessky.info" target="_blank"><img src="' . esc_url( plugins_url( 'assets/img/sync-posts-between-sites.jpg', __FILE__ ) ) . '" /></a>';
+	echo '<a href="https://dessky.com/plugin/sync-posts-between-sites/" target="_blank"><img src="' . esc_url( plugins_url( 'assets/img/sync-posts-between-sites.jpg', __FILE__ ) ) . '" /></a>';
 	echo '</div>';
 	}
 	
